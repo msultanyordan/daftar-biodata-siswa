@@ -1,9 +1,9 @@
-1. Nama   : Diki Wahyudi
-   NIM    : H2020000001
-   JK     : Laki - Laki
-   Agama  : Islam
-   TTL    : Ambon, 19 Agustus 2003
-   Alamat : Jln. Loa Bakung RT.21 No.04
+1. Nama   : Diki Wahyudi<br>
+   NIM    : H2020000001<br>
+   JK     : Laki - Laki<br>
+   Agama  : Islam<br>
+   TTL    : Ambon, 19 Agustus 2003<br>
+   Alamat : Jln. Loa Bakung RT.21 No.04<br>
  
 2. Nama   : Erna Mulyani
    NIM    : H2020000002
